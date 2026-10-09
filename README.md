@@ -6,4 +6,4 @@ Schizophrenia (SCZ) is highly heritable, with most genetic risk residing in non-
 
 ### ** Function of codes **
 
-Code to replicate the plots in Figure.
+Code to replicate the plots in Figures.
