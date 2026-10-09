@@ -2,3 +2,8 @@
 
 
 Schizophrenia (SCZ) is highly heritable, with most genetic risk residing in non-coding regions.By integrating genetic, epigenomic, and transcriptomic data from the human brain, we systematically identify 16 enhancer-associated lncRNAs (elncRNAs) with strong SCZ risk enrichment and neurodevelopmental specificity. These elncRNAs and their protein-coding targets converge on pathways critical for synaptic function and neuronal maturation. Specifically, we further characterize SNHG32, an elncRNA regulated by a robust SCZ risk variant (rs805825), and show that SNHG32 controls the expression of the chromatin regulator EHMT2. Knockdown of SNHG32 in human neural stem cells impairs proliferation and differentiation, phenotypic defects partially rescued by EHMT2 overexpression, consistent with reduced SNHG32 and EHMT2 expression in postmortem SCZ brains.
+
+
+### ** Function of codes **
+
+Code to replicate the plots in Figure.
